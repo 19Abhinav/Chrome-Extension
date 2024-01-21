@@ -1,21 +1,34 @@
-# cob534a01a5afdfbb0f97e822
 
-Quick start:
 
-```
-$ npm install
-$ npm start
-````
+# My Chrome Extension
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+Welcome to SaveNote Chrome Extension
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+SaveNote, a lightweight Chrome extension designed to help you effortlessly save important notes and the URL of the current tab while browsing the internet.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Features
 
+- **Save Notes:** Capture and store important information you come across during your internet explorations. Whether it's a useful snippet of text, a quick idea, or a noteworthy fact, SaveNote allows you to easily save and organize your findings.
+
+- **Tab URL Capture:** Automatically record the URL of the current tab. This feature ensures that you always have a reference to the source of your notes, making it convenient to revisit and explore further.
+
+
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-chrome-extension.git
+
+Steps :
+
+       1. Open Chrome and navigate to chrome://extensions/.
+        
+       2. Enable "Developer mode" in the top right corner.
+        
+       3. Click on "Load unpacked" and select the directory where you cloned the repository.
+        
+       4. The extension should now be loaded, and you'll see its icon in the Chrome toolbar.
+
+   
 Happy Coding!
